@@ -1,0 +1,10 @@
+openai-whisper
+ffmpeg-python
+pandas
+textblob
+vaderSentiment
+transformers
+flair
+nltk
+matplotlib
+seaborn
